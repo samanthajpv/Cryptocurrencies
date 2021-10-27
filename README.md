@@ -1,7 +1,7 @@
 # Cryptocurrencies
 Unsupervised Machine Learning on cryptocurrency data using a clustering algorithm
 
-## Project Overvievw
+## Project Overview
 The purpose of this project was to demonstrate Principal Component Analysis (PCA), clustering using K-means algorithm, and plotting of results using hvplot and plotly on cryptocurrency dataset. Findings can be used to group cryptocurrencies for the purpose of an investment classification system.
 
 ### Resources
